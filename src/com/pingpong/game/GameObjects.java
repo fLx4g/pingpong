@@ -39,6 +39,7 @@ public class GameObjects extends JPanel implements Runnable {
 	public Timer BDown;
 	public Timer BUp;
 
+	
 	public void setScoreA(int scoreA) {
 		this.scoreA = scoreA;
 	}
